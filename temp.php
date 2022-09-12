@@ -9,5 +9,5 @@ elseif ($x > 0){
 }
 
 else{
-    echo "!";
+    echo "!!!";
 }
